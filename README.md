@@ -1,2 +1,2 @@
-# apuntes
+# Apuntes
 Apuntes de varias asignaturas
